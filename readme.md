@@ -4,7 +4,7 @@ Built using Hyperfiles: https://github.com/flowscience/hyperfiles
 
 ### **About**
 
-BOS native Hypercerts leveraging a standardized type schema. Standardized fields can make Hypercerts composable with other implementations of impact certificates (e.g. to aggregate & analyze metadata like scope, dates, contributors, etc).
+An implementation of Hypercerts using Near Protocol's Blockchain Operating System (BOS). Hypercerts on BOS (HoB) is a decentralized front-end stored entirely on-chain that interacts with both the Near socialDB contract as well as the Hypercert contract on Optimism to enable minting on either network. The entire application can be integrated into any BOS gateway deployment such as near.org, near.social, and opencann.net with a single line of code. BOS native Hypercerts leveraging a standardized type schema. Standardized fields can make Hypercerts composable with other implementations of impact certificates (e.g. to aggregate & analyze metadata like scope, dates, contributors, etc). 
 
 Docs
 [https://www.notion.so/opencann/Hypercerts-on-BOS-a779c2abf7e54e4bb5782e569dd14419](https://www.notion.so/Hypercerts-on-BOS-a779c2abf7e54e4bb5782e569dd14419?pvs=21)
